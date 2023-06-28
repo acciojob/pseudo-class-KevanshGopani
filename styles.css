@@ -1,1 +1,4 @@
 /*  your css code here. If applicable */
+div>span:first-child, div>span:last-child{
+	color:red;
+}
