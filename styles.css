@@ -4,6 +4,6 @@ div::before{
 	color:rgb(255, 0, 0);
 }
 div::after{
-	content:"after Element";
+	content:"After Element";
 	color:rgb(255, 0, 0);
 }
